@@ -1,0 +1,11 @@
+age,sickness,city,immun
+old,yes,Aachen,low
+old,no,Aachen,low
+old,no,Aachen,low
+mid,yes,Berlin,low
+mid,yes,Berlin,low
+mid,no,Berlin,high
+mid,no,Frankfurt,high
+new,yes,Frankfurt,high
+new,no,Frankfurt,high
+new,no,Frankfurt,high
