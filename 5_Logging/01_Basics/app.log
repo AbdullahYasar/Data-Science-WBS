@@ -1,0 +1,34 @@
+2024-02-27 08:29:11,240  - app_basic.py - root - WARNING - This is a message 
+2024-02-27 08:29:11,241  - app_basic.py - root - ERROR - This is a message 
+2024-02-27 08:29:11,241  - app_basic.py - root - CRITICAL - This is a message 
+2024-02-27 08:29:11,429  - app_basic.py - root - WARNING - This is a message 
+2024-02-27 08:29:11,430  - app_basic.py - root - ERROR - This is a message 
+2024-02-27 08:29:11,430  - app_basic.py - root - CRITICAL - This is a message 
+2024-02-27 08:29:11,985  - app_basic.py - root - WARNING - This is a message 
+2024-02-27 08:29:11,985  - app_basic.py - root - ERROR - This is a message 
+2024-02-27 08:29:11,985  - app_basic.py - root - CRITICAL - This is a message 
+2024-02-27 08:29:12,634  - app_basic.py - root - WARNING - This is a message 
+2024-02-27 08:29:12,635  - app_basic.py - root - ERROR - This is a message 
+2024-02-27 08:29:12,635  - app_basic.py - root - CRITICAL - This is a message 
+2024-02-27 08:29:24,799  - app_basic.py - root - INFO - Application is started. 
+2024-02-27 08:29:24,800  - app_basic.py - root - DEBUG - X: 6, Y:9 
+2024-02-27 08:29:24,800  - app_basic.py - root - DEBUG - Total : 15 
+2024-02-27 08:29:24,800  - app_basic.py - root - INFO - Application is finished. 
+2024-02-27 08:29:24,800  - app_basic.py - root - DEBUG - This is a message 
+2024-02-27 08:29:24,800  - app_basic.py - root - INFO - This is a message 
+2024-02-27 08:29:24,800  - app_basic.py - root - WARNING - This is a message 
+2024-02-27 08:29:24,800  - app_basic.py - root - ERROR - This is a message 
+2024-02-27 08:29:24,800  - app_basic.py - root - CRITICAL - This is a message 
+2024-02-27 09:51:14,564  - app_basic.py - root - INFO - Application is started. 
+2024-02-27 09:51:14,564  - app_basic.py - root - DEBUG - X: 6, Y:9 
+2024-02-27 09:51:14,564  - app_basic.py - root - DEBUG - Total : 15 
+2024-02-27 09:51:14,564  - app_basic.py - root - INFO - Application is finished. 
+2024-02-27 09:51:14,564  - app_basic.py - root - DEBUG - This is a message 
+2024-02-27 09:51:14,564  - app_basic.py - root - INFO - This is a message 
+2024-02-27 09:51:14,564  - app_basic.py - root - WARNING - This is a message 
+2024-02-27 09:51:14,564  - app_basic.py - root - ERROR - This is a message 
+2024-02-27 09:51:14,564  - app_basic.py - root - CRITICAL - This is a message 
+2024-02-27 10:25:24,379  - app_basic.py - root - INFO - Application is started. 
+2024-02-27 10:25:24,379  - app_basic.py - root - DEBUG - X: 6, Y:9 
+2024-02-27 10:25:24,379  - app_basic.py - root - DEBUG - Total : 15 
+2024-02-27 10:25:24,379  - app_basic.py - root - INFO - Application is finished. 

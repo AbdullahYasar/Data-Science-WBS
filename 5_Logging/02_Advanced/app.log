@@ -1,0 +1,21 @@
+2024-02-27 10:48:37,188  - app.py - root - INFO - Application is started 
+2024-02-27 10:48:37,191  - car.py - root - DEBUG - Car instance is created 
+2024-02-27 10:48:37,193  - app.py - root - INFO - Application is finished 
+2024-02-27 10:59:28,989  - app.py - root - INFO - Application is started 
+2024-02-27 10:59:28,989  - car.py - root - DEBUG - Car instance is created 
+2024-02-27 10:59:28,990  - app.py - root - INFO - Application is finished 
+2024-02-27 11:00:27,440  - app.py - root - INFO - Application is started 
+2024-02-27 11:00:27,441  - car.py - root - DEBUG - Car instance is created 
+2024-02-27 11:00:27,441  - app.py - root - INFO - Application is finished 
+2024-02-27 11:01:27,663  - app.py - root - INFO - Application is started 
+2024-02-27 11:01:27,664  - car.py - root - DEBUG - Car instance is created 
+2024-02-27 11:01:27,664  - app.py - root - INFO - Application is finished 
+2024-02-28 08:48:54,813  - app.py - root - INFO - Application is started 
+2024-02-28 08:48:54,813  - car.py - root - DEBUG - Car instance is created 
+2024-02-28 08:48:54,813  - app.py - root - INFO - Application is finished 
+2024-02-28 08:49:17,774  - app.py - root - INFO - Application is started 
+2024-02-28 08:49:17,775  - car.py - root - DEBUG - Car instance is created 
+2024-02-28 08:49:17,775  - app.py - root - INFO - Application is finished 
+2024-02-28 08:50:02,086  - app.py - root - INFO - Application is started 
+2024-02-28 08:50:02,086  - car.py - root - INFO - Car instance is created 
+2024-02-28 08:50:02,086  - app.py - root - INFO - Application is finished 
